@@ -1,0 +1,1 @@
+Animation Background 및 Offset 수정

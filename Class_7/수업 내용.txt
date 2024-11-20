@@ -1,0 +1,5 @@
+1. TaskMgr 의 필요성
+
+2. SpawnTask 구현 중
+
+3. Prefab 구현 예정

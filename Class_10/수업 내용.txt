@@ -1,0 +1,2 @@
+1. StructuredBuffer 추가
+  - 기본적인 기능만 구현
